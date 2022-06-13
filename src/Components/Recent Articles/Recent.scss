@@ -145,44 +145,7 @@
     }
 }
 
-@media only screen and(max-width: 860px) {
-    .favorites__info {
-        margin-bottom: 24px;
-    }
 
-    .recent__item{
-        margin-bottom: 7px;
-    }
-    
-    .favorites__heading {
-        margin-bottom: 12px;
-        font-size: 32px;
-        line-height: 36px;
-        
-        &::after {
-            margin-top: 6px;
-        }
-    }
-    
-}
-
-@media only screen and(max-width: 800px) {
-    .recent__list {
-        max-width: 500px;
-        margin: 0 auto;
-        display: flex;
-        flex-direction: column;
-    }
-
-    .recent__item{
-        margin-bottom: 5px;
-    }
-    
-    .recent__item__heading {
-        max-width: unset;
-        height: unset;
-    }
-}
 
 @media only screen and(max-width: 450px) {
     .recent__item__info {
