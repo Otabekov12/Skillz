@@ -127,26 +127,6 @@
    
 }
 
-@media only screen and(max-width: 952px) {
-    .favorites__info {
-        margin-bottom: 30px;
-    }
-    
-    .favorites__heading {
-        font-size: 38px;
-        line-height: 42px;
-    }
-    
-    .favorites__description {
-        max-width: 520px;
-        margin-bottom: 24px;
-        font-size: 16px;
-        line-height: 18px;
-    }
-}
-
-
-
 @media only screen and(max-width: 450px) {
     .recent__item__info {
         padding: 12px;
